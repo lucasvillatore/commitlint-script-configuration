@@ -15,3 +15,6 @@ Basta rodar o comando abaixo
 ```bash
 $ bash commit.sh
 ```
+
+![](./commit.png)
+
