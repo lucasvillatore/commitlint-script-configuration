@@ -1,0 +1,8 @@
+
+
+###### Pre commit #######
+package.json
+node_modules/
+yarn.lock
+commitlint.config.js
+.husky/
